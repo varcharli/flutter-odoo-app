@@ -52,12 +52,12 @@ const String odooServerUrl = 'https://your-odoo-server.com';
 
 Here are some screenshots of the app:
 
-![Screenshot 1](./screen/screenshot1.png)
-![Screenshot 2](./screen/screenshot2.png)
-![Screenshot 3](./screen/screenshot3.png)
-![Screenshot 4](./screen/screenshot4.png)
-![Screenshot 5](./screen/screenshot5.png)
-![Screenshot 6](./screen/screenshot6.png)
+![Screenshot 1](./screen/a001.png)
+![Screenshot 2](./screen/a002.png)
+![Screenshot 3](./screen/a003.png)
+![Screenshot 4](./screen/a004.png)
+![Screenshot 5](./screen/a005.png)
+![Screenshot 6](./screen/a006.png)
 
 ## Contributing
 
